@@ -254,7 +254,7 @@ def main():
     args = parser.parse_args()
 
     print("\n" + "="*60)
-    print("  🇿🇲  Gofi AI — LuSE Digital Analyst  🇿🇲")
+    print("  Gofi AI — LuSE Digital Analyst  ")
     print("  Bloomberg Terminal for the Zambian Market")
     print("="*60)
     print("  Commands: 'quit' | 'clear' (reset history)")
@@ -282,13 +282,13 @@ def main():
         try:
             user_input = input("You: ").strip()
         except (EOFError, KeyboardInterrupt):
-            print("\n[Gofi] Goodbye! Invest wisely. 🇿🇲")
+            print("\n[Gofi] Goodbye! Invest wisely. ")
             break
 
         if not user_input:
             continue
         if user_input.lower() in ("quit", "exit", "q"):
-            print("[Gofi] Goodbye! 🇿🇲")
+            print("[Gofi] Goodbye! ")
             break
         if user_input.lower() == "clear":
             chat_history = []
