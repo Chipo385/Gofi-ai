@@ -1,0 +1,42 @@
+TITLE: LuSE Listed Companies — Sector Guide 2025
+SOURCE: LuSE Official / Stockbrokers Zambia
+DATE: 2026-04-08
+============================================================
+
+LUSAKA SECURITIES EXCHANGE — LISTED COMPANIES SECTOR GUIDE
+
+BANKING & FINANCIAL SERVICES:
+- ZNCO.LUSE — Zambia National Commercial Bank (ZANACO): Largest local Zambian bank. Focus on retail and SME banking. Listed since 2008. Government holds majority stake via ZNBS.
+- BSCZ.LUSE — Standard Chartered Bank Zambia: Part of Standard Chartered global network. Strong in corporate and institutional banking, trade finance.
+
+MINING & ENERGY:
+- ZCCM.LUSE — ZCCM Investments Holdings: State mining investment vehicle. Holds stakes in Konkola Copper Mines, First Quantum's Kansanshi, and others. Highly correlated with LME copper.
+- CECZ.LUSE — Copperbelt Energy Corporation (CEC): Provides electricity to the Copperbelt mining sector. Also expanding into renewable energy.
+
+CONSUMER & RETAIL:
+- ZAFC.LUSE — Zambeef Products Plc: Zambia's largest integrated cold chain food company. Products include beef, pork, chicken, dairy, and stockfeed. Also has West Africa operations.
+- SHOP.LUSE — Shoprite Zambia: Part of the Shoprite Holdings group (JSE-listed). Dominant supermarket chain in Zambia.
+- PUMA.LUSE — Puma Energy Zambia: Fuel retail and distribution.
+
+INDUSTRIAL & CONSTRUCTION:
+- CHIL.LUSE — Chilanga Cement Plc: Zambia's leading cement manufacturer. Benefits from infrastructure investment.
+- LGFZ.LUSE — Lafarge Zambia: Cement and construction materials. Parent is Holcim Group.
+
+TELECOMMUNICATIONS:
+- AIRZ.LUSE — Airtel Networks Zambia: Listed telecom. Zambia operations of Airtel Africa (LSE-listed). Mobile money (Airtel Money) is key growth driver.
+
+TECHNOLOGY (Alt-M):
+- DCZM.LUSE — Dot Com Zambia: First tech company on LuSE Alt-M. ICT solutions, revenue collection systems.
+
+INSURANCE (New Listing):
+- KLRE.LUSE — Klapton Reinsurance Plc: Listed March 2026. Non-life reinsurance with 86% domestic market share and 120+ country footprint.
+
+AGRICULTURE:
+- MAFM.LUSE — Madison Asset Management: Financial services and asset management.
+
+KEY MARKET METRICS (2025):
+- Total listed companies: ~25
+- Market Cap: Growing, boosted by new listings
+- Most liquid stocks: ZNCO, CECZ, ZAFC, ZCCM
+- Currency: All prices quoted in Zambian Kwacha (ZMW)
+- Settlement: T+3

@@ -1,0 +1,42 @@
+TITLE: Zambia Copper Sector & ZCCM-IH Deep Dive
+SOURCE: ZambiaInvest / ZCCM Annual Reports
+DATE: 2026-04-08
+============================================================
+
+ZCCM-IH (ZCCM Investments Holdings) — LuSE DEEP DIVE
+
+Ticker: ZCCM.LUSE
+Sector: Mining Investments / State Enterprise
+Government Ownership: Majority owned by the Government of the Republic of Zambia (GRZ)
+
+WHAT ZCCM-IH DOES:
+ZCCM-IH is the government's equity holding vehicle in the mining sector. It holds minority stakes across multiple major copper mines and resource projects:
+- Kansanshi Mine (First Quantum Minerals): 20% stake — one of Africa's largest copper mines
+- Lumwana Mine: Minority stake
+- Mopani Copper Mines: Following nationalization, government has full control
+- Konkola Copper Mines: Government stake after Vedanta Resources disputes
+- Various smaller projects in cobalt, emeralds, and other minerals
+
+REVENUE DRIVERS:
+- Dividend income from mining subsidiaries
+- Management fees and royalties
+- Capital gains on mining asset disposals
+- USD-denominated revenues translated to ZMW
+
+COPPER PRICE SENSITIVITY:
+ZCCM-IH is among the most copper-price-sensitive stocks on the LuSE:
+- Every $500/tonne move in LME copper significantly impacts subsidiary dividends
+- LME copper at $9,000/tonne = strong dividend flow
+- LME copper below $7,500/tonne = revenue stress across subsidiaries
+
+ZAMBIA COPPER PRODUCTION:
+- Zambia produces approximately 800,000 - 1,000,000 tonnes of copper per year
+- Target: 3 million tonnes by 2030 (government stated ambition)
+- New Copperbelt discoveries and First Quantum's expansion driving growth
+
+ZMW/USD AND COPPER CORRELATION:
+When copper rallies: ZMW strengthens → government revenues rise → fiscal stability improves
+When copper falls: ZMW weakens → government considers MPR hikes → bond yields rise → equity valuation pressure
+
+EV TAILWIND:
+Electric vehicle batteries require approximately 80kg of copper per unit. Global EV adoption is creating secular demand growth for copper, providing a structural long-term tailwind for Zambian copper assets and ZCCM.LUSE specifically.

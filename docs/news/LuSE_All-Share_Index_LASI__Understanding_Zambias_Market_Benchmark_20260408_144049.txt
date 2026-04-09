@@ -1,0 +1,40 @@
+TITLE: LuSE All-Share Index (LASI) — Understanding Zambia's Market Benchmark
+SOURCE: LuSE Official Website
+DATE: 2026-04-08
+============================================================
+
+THE LUSE ALL SHARE INDEX (LASI)
+
+The LASI is the primary benchmark index for the Lusaka Securities Exchange, tracking the price performance of all ordinary shares listed on the exchange. It is market-capitalization weighted, meaning larger companies have a proportionally greater impact on index movements.
+
+KEY CHARACTERISTICS:
+- Base date: Established as a comprehensive market benchmark
+- Composition: All ordinary shares on the main board
+- Weighting: Free-float market cap weighted
+- Currency: ZMW
+- Calculation: Real-time during trading hours (10:00–14:00 Zambian time)
+
+INTERPRETING LASI MOVEMENTS:
+- +1% to 3% move: Normal session range; check individual stock drivers
+- >3% single-day move: Unusual — likely driven by institutional activity, major earnings announcement, or macro shock
+- Sustained >5% decline over a week: Investigate BoZ policy changes, copper price crash, or ZMW devaluation
+
+TRADING HOURS:
+- Market hours: 10:00 - 14:00 (CAT, UTC+2)
+- Settlement: T+3 (trade date plus 3 business days)
+
+LASI SECTOR COMPOSITION (Approximate):
+- Banking & Financial: ~40%
+- Mining & Energy: ~30%
+- Consumer/Retail: ~15%
+- Industrial: ~10%
+- Other: ~5%
+
+FOREIGN INVESTOR PARTICIPATION:
+Foreign portfolio investors (FPIs) can invest in LuSE-listed stocks through registered brokers. Repatriation of funds is governed by BoZ foreign exchange regulations. ZMW depreciation risk applies — a weakening Kwacha reduces USD-equivalent returns.
+
+PRIMARY BROKERS:
+- Stockbrokers Zambia (SBZ) — largest, oldest
+- African Alliance Zambia Securities
+- Madison Asset Management
+- Imara Securities Zambia

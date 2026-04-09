@@ -1,0 +1,39 @@
+TITLE: Bank of Zambia — Monetary Policy & Economic Overview 2025–2026
+SOURCE: Bank of Zambia / Ministry of Finance
+DATE: 2026-04-08
+============================================================
+
+The Bank of Zambia (BoZ) is the central bank responsible for monetary policy in Zambia. Key economic indicators and policy stance:
+
+MONETARY POLICY RATE (MPR):
+The BoZ Monetary Policy Committee meets quarterly to set the MPR. The rate influences commercial bank lending and deposit rates across the entire Zambian financial system. ZANACO, Standard Chartered Zambia, and other commercial banks price their loan books relative to the MPR.
+
+KEY ECONOMIC INDICATORS (2025):
+- GDP Growth: Zambia's economy has been recovering, driven by copper mining, agriculture, and services
+- Inflation: The BoZ targets single-digit inflation. Food and energy prices are the primary drivers
+- Exchange Rate: The ZMW/USD rate is floating and reflects global copper price cycles, FX reserve levels, and risk appetite for frontier markets
+- Copper Production: Zambia is one of the world's top copper producers. Revenue from copper exports is a critical driver of FX reserves and government revenue
+
+ZAMBIAN COPPER & GLOBAL MARKETS:
+Zambia holds approximately 6% of global copper reserves. Key mining companies listed on the LuSE or influencing the market:
+- ZCCM-IH (ZCCM.LUSE): The Zambian government's mining investment vehicle, holding stakes in major copper mines
+- Copperbelt Energy Corporation (CECZ.LUSE): Provides power to copper mines; revenue correlated with mining activity
+
+IMPACT OF COPPER PRICES ON LuSE:
+When LME copper prices rise:
+1. ZCCM-IH dividends increase → positive for LuSE sentiment
+2. Government royalty revenues improve → fiscal stability
+3. ZMW tends to strengthen (more USD from copper exports)
+4. CECZ benefits from increased mining operations demanding power
+
+When copper falls:
+1. FX pressure increases on ZMW
+2. ZCCM-IH and CECZ face earnings pressure
+3. Government budget may face revenue shortfalls
+4. BoZ may raise MPR to defend ZMW
+
+ZAMBIAN BANKING SECTOR:
+The banking sector is the most liquid segment of the LuSE. Key names:
+- ZANACO (ZNCO.LUSE): Zambia's largest local bank by branches. Net Interest Margin (NIM) of ~8%
+- Standard Chartered Zambia (BSCZ.LUSE): International bank with strong trade finance capabilities
+- Higher MPR = wider NIMs for banks = positive earnings impact short-term, offset by potential NPL rise

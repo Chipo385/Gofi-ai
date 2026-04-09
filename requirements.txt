@@ -1,0 +1,43 @@
+# ============================================================
+# Gofi AI — Full Dependency List
+# Zambian LuSE Bloomberg Terminal powered by Gemma
+# ============================================================
+
+# --- Data & API ---
+eodhd>=1.0.0               # LuSE real-time & historical data
+pandas>=2.1.0
+numpy>=1.26.0
+yfinance>=0.2.40           # Fallback for global context (ZMW, copper futures)
+requests>=2.31.0
+
+# --- LLM & RAG ---
+transformers>=4.40.0       # Gemma model loading
+torch>=2.2.0               # PyTorch (install GPU version separately)
+accelerate>=0.29.0         # device_map="auto" support
+langchain>=0.2.0
+langchain-community>=0.2.0
+chromadb>=0.5.0            # Vector store (local, no API key)
+sentence-transformers>=3.0.0   # Local embeddings (MiniLM)
+
+# --- Document Loaders ---
+pypdf>=4.2.0               # PDF annual reports
+unstructured>=0.14.0       # General document parsing
+beautifulsoup4>=4.12.0     # Web scraping (ZNS news)
+
+# --- Fine-Tuning (GPU required) ---
+peft>=0.11.0               # LoRA / Q-LoRA adapters
+bitsandbytes>=0.43.0       # 4-bit/8-bit quantization
+trl>=0.9.0                 # SFTTrainer for instruction fine-tuning
+datasets>=2.20.0           # HuggingFace datasets
+
+# --- Optional: Unsloth (2x faster fine-tuning) ---
+# Install separately with:
+#   pip install "unsloth[colab-new] @ git+https://github.com/unslothai/unsloth.git"
+
+# --- Technical Analysis ---
+pandas-ta>=0.3.14b         # Extended TA indicators (optional, we also have custom)
+
+# --- CLI / Utilities ---
+python-dotenv>=1.0.0       # .env file for API keys
+rich>=13.7.0               # Beautiful terminal output
+tqdm>=4.66.0               # Progress bars

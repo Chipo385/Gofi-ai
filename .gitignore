@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+env/
+venv/
+ENV/
+
+# Data and DBs
+chroma_db/
+*.log
+
+# VS Code
+.vscode/
+
+# OS
+.DS_Store
+
+# Secrets & Local Models
+.env
+gofi-gemma-lora/
+gofi-merged/
